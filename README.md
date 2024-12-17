@@ -42,8 +42,6 @@ Use ARCore to detect and track faces in the camera feed.
 Preprocess the detected faces (e.g., resizing, normalization) and pass them to the model for emotion classification.
 Overlay AR labels based on the classification results above the corresponding faces in the live view.
 
-![image](https://github.com/user-attachments/assets/61bd9f28-3778-472d-9803-1488a82d4e2e)
-
 
 4. Run the Application
    
