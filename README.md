@@ -51,5 +51,6 @@ Open the app and allow camera access to detect emotions in real time.
 
 
 ## Demo
+![video_2023-12-04_19-31-58online-video-cutter com-ezgif com-resize](https://github.com/user-attachments/assets/858e2f76-9050-4b5e-8090-f13780237256)
 
 
