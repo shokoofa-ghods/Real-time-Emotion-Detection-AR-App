@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project is an Augmented Reality (AR) application that labels emotions above people's heads in a live camera view. The application combines Computer Vision (CV) and AR technologies to perform real-time facial emotion recognition and overlay the detected emotions in an interactive AR interface.
+
 Computer Vision Model: A pre-trained ONNX model for facial emotion recognition sourced from [ONNX.js Demo]([url](https://microsoft.github.io/onnxjs-demo/#/ ).
 Face Tracking: Google's ARCore is leveraged to track faces and position AR labels dynamically.
 
